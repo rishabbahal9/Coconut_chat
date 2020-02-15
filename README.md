@@ -1,0 +1,1 @@
+This is a readme for Coconut chat. Coconut chat backend is made on NodeJS and ExpressJS and MongoDB database. Idea came on 15th February 2020 to Rishab Bahal.
